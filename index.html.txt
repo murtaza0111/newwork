@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=<>, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Hello Murtaza</h1>
+    <u1>
+<li>Learning</li>
+<li>coding</li>
+<nav>
+<a href="/html/">HTML</a> |
+<a href="/css/">CSS</a> |
+<footer>
+  <p>Author: Murtaza Mahmood<br>
+  <a href="mailto:mur-2@hotmail.com">mur-2@hotmail.com</a></p>
+</footer>
+</body>
+</html>
